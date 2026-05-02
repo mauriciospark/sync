@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "project": "SYNC",
+    "owner": "Mauricio Spark",
+    "version": "1.0.0",
+    "lineage": "SPARK",
+    "copyright": "© 2026 WINSOFT"
+  },
+  "event": "Evento Especial",
+  "targetDate": "2026-07-24T00:00:00",
+  "description": "Contagem regressiva para o grande dia!"
+}
